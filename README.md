@@ -50,11 +50,9 @@ If you have any questions, please write to [the issue][21] of making you don't u
 * 16、``CoordinatorLayout``+``Behavior``实现标题栏渐变。                                                                       
 
 
-## See Detail
-> [项目介绍详情](https://github.com/youlookwhat/CloudReader/blob/master/file/Introduction.md) | [细节优化详情](https://github.com/youlookwhat/CloudReader/wiki) | [**版本更新详情(V1.8.2)**](http://jingbin.me/2016/12/30/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97-%E4%BA%91%E9%98%85/)
 
 ### Download
-　[火速跳转](https://fir.im/cloudreader)                                    
+　[火速跳转](http://fir.im/ymc3)                                    
 　　<img width="200" height=“200” src="https://github.com/youlookwhat/CloudReader/blob/master/file/download.png"></img>
 　　
 ### Documents 
