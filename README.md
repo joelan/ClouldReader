@@ -53,7 +53,7 @@ If you have any questions, please write to [the issue][21] of making you don't u
 
 ### Download
 　[火速跳转](http://fir.im/ymc3)                                    
-　　<img width="200" height=“200” src="https://github.com/youlookwhat/CloudReader/blob/master/file/download.png"></img>
+　　<img width="200" height=“200” src="https://github.com/joelan/CloudReader/blob/master/file/download.png"></img>
 　　
 ### Documents 
  - [《云阅》一个仿网易云音乐UI，使用Gank.Io及豆瓣Api开发的开源项目][23]
